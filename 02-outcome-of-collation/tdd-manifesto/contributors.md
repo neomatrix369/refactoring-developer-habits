@@ -6,19 +6,24 @@ You all brain-stormed and helped shape the 12 habits into a fantastic looking ma
 
 Here are a list of names (in no particular order):
 
-- Steve Llyford
-- Rachel Davies
-- Samir Talwar
-- Alvaro Garcia
-- Sergio 
-- Halima Koundi
-- Henrik
+- Steve Lydford (@stevelydford)
+- Rachel Davies (@rachelcdavies)
+- Houssam Fakih (‏@houssamfakih)
+- Samir Talwar (@samirtalwar)
+- Alvaro Garcia (‏@alvarobiz)
+- Sergio Rodrigo (@srodrigoDev) 
+- Halima Koundi (@hkoundi)
+- Catalina (@cataflu)
+- Alex Soler Sanandres (‏@XelamRelos)
+- Henrik Nyh (@Henrik)
 - Stephane
-- Joakim
-- Johan Martinsson
-- Jason Peper
+- Joakim (@joakimk)
+- Johan Martinsson (johan_alps)
+- Jason Peper (jason_peper)
 and many others who had a peek at it whilst it was being created.
   
 If you have been to the session and if its not on the list above, please contact us with your name and twitter handle.
 
 Please share with everyone, use #socratesuk, tweet at @Socrates_UK.
+
+And thank you for those who liked, tweeted and retweeted about the session.
