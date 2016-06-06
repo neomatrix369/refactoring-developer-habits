@@ -1,4 +1,4 @@
-# Refactor developer habits
+# Refactoring developer habits
 
 Slides: [Refactoring developer habits presentation](http://www.slideshare.net/neomatrix369/refactoring-developer-habits-62785350)
 
