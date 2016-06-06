@@ -10,8 +10,15 @@ Here are a list of names (in no particular order):
 - Rachel Davies
 - Samir Talwar
 - Alvaro Garcia
+- Sergio 
 - Halima Koundi
-- Johan (@johan_alps)
-and many others who had a peek at it whilst it was being created.  
+- Henrik
+- Stephane
+- Joakim
+- Johan Martinsson
+- Jason Peper
+and many others who had a peek at it whilst it was being created.
+  
+If you have been to the session and if its not on the list above, please contact us with your name and twitter handle.
 
 Please share with everyone, use #socratesuk, tweet at @Socrates_UK.
