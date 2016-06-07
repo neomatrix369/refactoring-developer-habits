@@ -13,6 +13,7 @@ Here are a list of names (in no particular order):
 - Alvaro Garcia ([‏@alvarobiz](http://twitter.com/‏@alvarobiz))
 - Sergio Rodrigo ([@srodrigoDev](http://twitter.com/@srodrigoDev)) 
 - Halima Koundi ([@hkoundi](http://twitter.com/@hkoundi))
+- Ana Nogal ([@anainogal](https://twitter.com/@anainogal))
 - Carlos Peña  ([@crafty_coder](http://twitter.com/craft_coder))
 - Catalina ([@cataflu](http://twitter.com/@cataflu))
 - Alex Soler Sanandres ([@XelamRelos](http://twitter.com/@XelamRelos))
