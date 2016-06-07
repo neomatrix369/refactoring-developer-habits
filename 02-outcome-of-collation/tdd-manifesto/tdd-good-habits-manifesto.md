@@ -3,17 +3,17 @@
 #### (principles)
 - tests should test one thing only
 	- test one logical assertion
-	- don't mix asserts of state and collaborations together
-- make tests independent of each other
-- don't refactor with failing test
-- organise your unit tests to reflect your production code
+	- don't mix assertions of state and collaboration in the same test
+- ensure tests are independent of each other
+- don't refactor with a failing test
+- organise your unit test projects to reflect your production code
 - keep your tests and production code separate
 	- do not use production data and code to test production code
 - if your tests are difficult to write or maintain, consider changing the design
 
 #### (red phase)
 - create more specific tests to drive a more generic solution (Triangulate)
-- give your test meaningful names (behaviour / goal-oriented) - that reflects your production
+- give your tests meaningful names (behaviour / goal-oriented) that reflect your production system
 - write the assertion first and work backwards
 - see the test fail for the right reason
 - ensure you have meaningful feedback from failing tests
