@@ -6,19 +6,19 @@ You all brain-stormed and helped shape the 12 habits into a fantastic looking ma
 
 Here are a list of names (in no particular order):
 
-- Steve Lydford (@stevelydford)
-- Rachel Davies (@rachelcdavies)
-- Houssam Fakih (‏@houssamfakih)
-- Samir Talwar (@samirtalwar)
-- Alvaro Garcia (‏@alvarobiz)
-- Sergio Rodrigo (@srodrigoDev) 
-- Halima Koundi (@hkoundi)
-- Catalina (@cataflu)
-- Alex Soler Sanandres (‏@XelamRelos)
-- Henrik Nyh (@Henrik)
+- Steve Lydford ([‏@stevelydford](http://twitter.com/@stevelydford))
+- Rachel Davies ([‏@rachelcdavies](http://twitter.com/@rachelcdavies))
+- Houssam Fakih ([‏@houssamfakih](http://twitter.com/‏@houssamfakih))
+- Samir Talwar ([‏@samirtalwar](http://twitter.com/‏@samirtalwar))
+- Alvaro Garcia ([‏@alvarobiz](http://twitter.com/‏@alvarobiz))
+- Sergio Rodrigo ([@srodrigoDev](http://twitter.com/@srodrigoDev)) 
+- Halima Koundi ([@hkoundi](http://twitter.com/@hkoundi))
+- Catalina ([@cataflu](http://twitter.com/@cataflu))
+- Alex Soler Sanandres ([@XelamRelos](http://twitter.com/@XelamRelos))
+- Henrik Nyh ([@Henrik](http://twitter.com/@Henrik))
 - Stephane
-- Joakim (@joakimk)
-- Johan Martinsson (johan_alps)
+- Joakim ([@joakimk](http://twitter.com/@joakimk))
+- Johan Martinsson ([@johan_alps](http://twitter.com/@johan_alps))
 - [Jason Peper](https://github.com/jasontrublu) ([@jason_peper](http://twitter.com/jason_peper))
 and many others who had a peek at it whilst it was being created.
   
