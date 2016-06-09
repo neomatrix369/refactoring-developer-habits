@@ -27,3 +27,7 @@
 - refactor aggressively and constantly
 - treat tests as first class code
 - use the IDE to refactor quickly and safely
+
+
+![MindMap](TDDmanifesto.jpg)
+<hr/>
