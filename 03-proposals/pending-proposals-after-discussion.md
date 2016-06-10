@@ -7,3 +7,4 @@ These are some of the invaluable suggestions from the outcome of the group discu
 - which level are the tests written for (unit, integration, ATDD, Acceptance, et...)
 - add monitoring checks, if applicable
 - commit and push after each passing test
+- (Green) consider using Transformation Priority Premises to evolve your code
