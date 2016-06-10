@@ -4,6 +4,8 @@
 - tests should test one thing only
 	- test one logical assertion
 	- don't mix assertions of state and collaboration in the same test
+	- modifications of production code should only break related test cases
+- each test should be self-contained, including data
 - ensure tests are independent of each other
 - don't refactor with a failing test
 - organise your unit test projects to reflect your production code
@@ -27,3 +29,4 @@
 - refactor aggressively and constantly
 - treat tests as first class code
 - use the IDE to refactor quickly and safely
+- refactor production and test code independently (except changing public interfaces)
