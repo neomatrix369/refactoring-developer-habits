@@ -1,0 +1,12 @@
+ 1. Write the assertion first and work backwards
+ 2. Test should test one thing only
+ 3. See the test fail
+ 4. Write the simplest code to pass the test
+ 5. Refactor to remove duplications
+ 6. Don’t refactor with failing test(s)
+ 7. Write meaningful tests
+ 8. Triangulate
+ 9. Keep your test and model code separate (except when practising TDD-as-if-you-meant-it)
+10. Isolate your tests
+11. Organise your tests to reflect model code
+12. Maintain your tests
