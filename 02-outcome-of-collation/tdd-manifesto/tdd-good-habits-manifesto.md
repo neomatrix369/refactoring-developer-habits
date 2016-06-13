@@ -30,3 +30,7 @@
 - treat tests as first class code
 - use the IDE to refactor quickly and safely
 - refactor production and test code independently (except changing public interfaces)
+
+
+![MindMap](TDDManifesto.png)
+<hr/>
