@@ -26,6 +26,6 @@ and many others who had a peek at it whilst it was being created.
   
 If you have been to the session and if its not on the list above, please contact us with your name and twitter handle.
 
-Please share with everyone, use #socratesuk, tweet at @Socrates_UK.
+Please share with everyone, use #socratesuk, tweet at [@Socrates_UK](http://twitter.com/Socrates_UK).
 
 And thank you for those who liked, tweeted and retweeted about the session.
