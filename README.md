@@ -6,4 +6,4 @@ See how the original list of habits got shaped into, at [TDD Good Habits manifes
 
 Feel free to contribute to it, create a pull request with your views.
 
-Make proposals, share ideas and discuss with the community at #tdd on the [International Software Craftsmanship slack channel](http://softwarecraftsmanship.slack.com).
+Make proposals, share ideas and discuss with the community at #tdd channel on the [International Software Craftsmanship slack organisation](http://softwarecraftsmanship.slack.com).
