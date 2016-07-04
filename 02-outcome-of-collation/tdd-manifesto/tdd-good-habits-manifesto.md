@@ -24,6 +24,7 @@
 - write the simplest code to pass the test
 	- write any code that makes you get to the refactor phase quicker
 	- it is okay to write any code that you might improve at a later stage
+- consider using Transformation Priority Premises to evolve your code
 
 #### (refactor phase)
 - refactor aggressively and constantly
