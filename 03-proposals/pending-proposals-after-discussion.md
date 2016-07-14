@@ -10,9 +10,9 @@ These are some of the invaluable suggestions from the outcome of the group discu
 
 ### Red
 - Organize your test in Arrange, Act and Assert blocks
-  - Arrange aka Given – all necessary preconditions and inputs.
-  - Act aka When – on the object or method under test.
-  - Assert aka Then – that the expected results have occurred.
+  - Arrange (aka Given) – all necessary preconditions and inputs.
+  - Act (aka When) – on the object or method under test.
+  - Assert (aka Then) – that the expected results have occurred.
   - Structure the code in tests to reflect these concepts.
 
 
