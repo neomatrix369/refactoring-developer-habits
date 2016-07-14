@@ -7,3 +7,10 @@ These are some of the invaluable suggestions from the outcome of the group discu
 - which level are the tests written for (unit, integration, ATDD, Acceptance, et...)
 - add monitoring checks, if applicable
 - commit and push after each passing test
+
+### Red
+- Organize your test in Arrange, Act and Assert blocks
+
+### Refactor
+- Use the Rule of 3 to tackle duplication 
+- Remember that duplication is cheaper than the wrong abstractions
