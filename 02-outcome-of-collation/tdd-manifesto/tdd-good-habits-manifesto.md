@@ -19,6 +19,12 @@
 - write the assertion first and work backwards
 - see the test fail for the right reason
 - ensure you have meaningful feedback from failing tests
+- Organize your test in Arrange, Act and Assert blocks
+	- Arrange (aka Given) – all necessary preconditions and inputs.
+	- Act (aka When) – on the object or method under test.
+	- Assert (aka Then) – that the expected results have occurred.
+	- Structure the code in tests to reflect these concepts.
+	- Refactor
 
 #### (green phase)
 - write the simplest code to pass the test
@@ -31,6 +37,9 @@
 - treat tests as first class code
 - use the IDE to refactor quickly and safely
 - refactor production and test code independently (except changing public interfaces)
+- Use the Rule of 3 to tackle duplication
+	- Code can be copied once, but when the same code is used three times, it should be refactored/extracted
+- Remember that duplication is cheaper than the wrong abstractions
 
 
 ![MindMap](TDDManifesto.png)
