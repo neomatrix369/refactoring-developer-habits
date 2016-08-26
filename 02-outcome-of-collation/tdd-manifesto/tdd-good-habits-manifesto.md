@@ -24,7 +24,6 @@
 	- Act (aka When) – on the object or method under test.
 	- Assert (aka Then) – that the expected results have occurred.
 	- Structure the code in tests to reflect these concepts.
-	- Refactor
 
 #### (green phase)
 - write the simplest code to pass the test
