@@ -22,7 +22,7 @@ Here are a list of names (in no particular order):
 - Joakim ([@joakimk](http://twitter.com/@joakimk))
 - Johan Martinsson ([@johan_alps](http://twitter.com/@johan_alps))
 - [Jason Peper](https://github.com/jasontrublu) ([@jason_peper](http://twitter.com/jason_peper))
-and many others who had a peek at it whilst it was being created.
+- and many others who had a peek at it whilst it was being created.
   
 If you have been to the session and if its not on the list above, please contact us with your name and twitter handle.
 
