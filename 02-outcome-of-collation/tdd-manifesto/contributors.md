@@ -15,6 +15,7 @@ Here are a list of names (in no particular order):
 - Halima Koundi ([@hkoundi](http://twitter.com/@hkoundi))
 - Ana Nogal ([@anainogal](https://twitter.com/@anainogal))
 - Carlos Peña  ([@crafty_coder](http://twitter.com/craft_coder))
+- Michael Bateman ([@m_r_bateman](http://twitter.com/m_r_bateman))
 - Catalina ([@cataflu](http://twitter.com/@cataflu))
 - Alex Soler Sanandres ([@XelamRelos](http://twitter.com/@XelamRelos))
 - Henrik Nyh ([@Henrik](http://twitter.com/@Henrik))
